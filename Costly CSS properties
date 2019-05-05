@@ -1,0 +1,12 @@
+Costly CSS properties
+Usually, CSS properties aren’t expensive at all, but when it comes about browser painting, you should be aware that some of the following can affect the way your page renders:
+
+position:fixed
+background-position: fixed
+border-radius
+background-size
+box-shadow
+gradients
+Check the Better CSS Performance With Tools slides by Paul Irish to find out more.
+
+That’s it!
