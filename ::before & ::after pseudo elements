@@ -1,0 +1,1 @@
+Until a few days ago, Firefox was the only one that supported transitions and animations for CSS pseudo elements like ::before and ::after. That’s a great feature and the good news for 2013 is that WebKit now supports that too. You can now open Google Chrome Canary and see them in action.
