@@ -1,0 +1,7 @@
+Graceful degradation
+The nice part about this CSS 3D folding list is that it degrades into a simple list when CSS 3D transforms are not available, thanks to Modernizr and its features detection.
+
+CSS 3D folding list using graceful degradation
+
+Mozilla Firefox
+Unfortunately, at this time on Firefox, the sides are a bit jagged when using CSS 3D transforms. Still, I’m very confident this will improve soon.
