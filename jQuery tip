@@ -1,0 +1,7 @@
+jQuery tip
+You can bind multiple events at once when using jQuery’s .on(). In this case, we had to use the same code when scrolling or resize and this tip was very handy, considering DRY principle.
+
+$(window).on("scroll resize", function(){
+    // code here
+})
+Check jQuery Fundamentals if you want to read more about Events and Event Delegation.
